@@ -8,6 +8,12 @@
         <Label Text="Welcome to Xamarin Forms and Prism!" />
         <Button x:Name="welcome">
             </Button>
+        <Button x:Name="Zeeshan">
+            
+        </Button>
+        <Label Text="hussaim">
+            
+        </Label>
     </StackLayout>
 
 </ContentPage>

@@ -13,7 +13,7 @@ namespace BatteryStatus.ViewModels
         public MainPageViewModel(INavigationService navigationService) 
             : base (navigationService)
         {
-            Title = "Main Page";
+            Title = "Main page for Testing";
         }
     }
 }
